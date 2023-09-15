@@ -47,6 +47,7 @@
 .input2 {
     height: 90px;
     width: 100%;
+    font-size: 30px;
 }
 
 .form .form02 button{
@@ -60,14 +61,9 @@
     color: white;
     width: 30%;
 }
-
 .footer{
-
     margin-top: 50px;
-    
 }
 .footer p h3{
-    border: solid red;
-    margin-top: 50px;
-    
+    margin-top: 50px;  
 }

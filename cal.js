@@ -12,7 +12,7 @@ let displayButton =  document.getElementById("displayButton");
         if (yearRemaning < 0 ){
             alert("invalid input");
         } else{
-            agedisplay.value =  "you have " + daysRemaning +  "days," + weeksRemaning + "weeks and" + monthsRemaning + "months remaining"   ;
+            agedisplay.value =  "you have " + daysRemaning +  " days," + weeksRemaning + " weeks and " + monthsRemaning + " months remaining"   ;
         }
 
     }
